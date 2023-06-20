@@ -1,5 +1,9 @@
 Question: Do more cars on the road equate to a higher AQI?
 
+Sources for Data:
+Resgistration source: https://tax.utah.gov/econstats/mv/registrations
+AQI source: https://aqs.epa.gov/aqsweb/airdata/download_files.html
+
 Observations: 
 1. From 1997 to 2021, the count of registrations increased from 615,904 to 2,729,278. Roughly 4.4x its initial value.
 2. From 1997 to 2021, the amount of days that CO & NO2 were the main pollutants decreased from 774 to 110. Roughly 1/7th its initial value
