@@ -1,0 +1,16 @@
+Question: Do more cars on the road equate to a higher AQI?
+
+Observations: 
+1. From 1997 to 2021, the count of registrations increased from 615,904 to 2,729,278. Roughly 4.4x its initial value.
+2. From 1997 to 2021, the amount of days that CO & NO2 were the main pollutants decreased from 774 to 110. Roughly 1/7th its initial value
+3. Salt Lake County has more than twice as many registrations as the next county, yet it is only 4th in Top 5 Counties Based on Days CO, NO2 as Main Pollutant
+4. Washington County contains the 5th most registrations in the state, yet has only reported 2 days in 16 years where CO, NO2 is the main pollutant
+
+Conclusion:
+Based on this data, we cannot conclude that there is a direct coorelation to cars on the road causing a higher AQI.
+
+Further Questions: 
+1. Have car emissions gotten better to the point that a significant increase of cars on the road would not effect the AQI?
+2. Are there other contributors to CO and NO2 that could be skewing these results? i.e. Refineries, farms
+3. Would doing this with different states yeild similar results?
+4. Does the land area of a county in realtion to the amount of registrations have an effect on AQI?
